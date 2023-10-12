@@ -7,6 +7,11 @@
 2. Then copy and paste `pip install flask`
 3. And run the code!
 
+# HOW TO INSTALL PYTHON (VIA BREW)
+1. Open your terminal
+2. Paste this line on the terminal `brew install python`
+3. You're done!
+
 # HOW TO RUN ✅
 1. Go to your terminal.
 2. Locate the directory that you have the file.
